@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Petar Popovic</h1>
 <h3 align="center">A dedicated student of software developing</h3>
 
-- 🔭 I’m currently studying **Computer Science and Automation - Software on FTN developing**
+- 🔭 I’m currently studying **Computer Science and Automation - Software developing on FTN**
 
 - 🌱 I am currently learning **new languages and programming skills**
 
