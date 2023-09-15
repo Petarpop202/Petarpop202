@@ -1,8 +1,8 @@
 ![MasterHead](https://imgs.search.brave.com/8Ryk0aNEFHZsnHVwvU0utXbsEQfvLvBXmQPMzY53JPc/rs:fit:1200:267:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9tYXhfMTIwMC83/OTczMTU2ODA5NzU5/OS41YjUwYmNhNDc3/NzM1LmpwZw)
 <h1 align="center">Hi 👋, I'm Petar Popovic</h1>
-<h3 align="center">A dedicated student of software developing</h3>
+<h3 align="center">A dedicated B.S. in Electrical and Computer Engineering</h3>
 
-- 🔭 I’m currently studying **Computer Science and Automation - Software developing on FTN**
+- 🔭 I am currently studying for a Master's degree in Electrical and Computer Engineering **Computer Science and Automation - Software developing on FTN**
 
 - 🌱 I am currently learning **new languages and programming skills**
 
