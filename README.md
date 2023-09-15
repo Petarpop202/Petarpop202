@@ -8,7 +8,7 @@
 
 - 🤝 I gain new knowledge **every day**
 
-- 📫 How to reach me **petarpop202@gmail.com**
+- 📫 How to reach me **petarpop2001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
